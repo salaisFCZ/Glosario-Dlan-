@@ -1,6 +1,6 @@
-Palabras clave para utilizar correctamente en una traduccion
+Palabras clave para utilizar correctamente en una traduccion. Descarga desde aca Glosario_DLAN
 
-Key words to use correctly in a translation
+Key words to use correctly in a translation. Download here Glossary_DLAN
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
