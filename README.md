@@ -15,3 +15,5 @@ Key words to use correctly in a translation. Download here Glossary_DLAN
 
 
 - https://web.archive.org/web/20230311144229/http://islanegra.clandlan.net/
+
+- https://www.rolroyce.com/rol/DDP/GlosarioDD.php
