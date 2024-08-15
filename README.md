@@ -2,6 +2,10 @@ Palabras clave para utilizar correctamente en una traduccion. Descarga desde aca
 
 Key words to use correctly in a translation. Download here Glossary_DLAN
 
+Traduccion oficial de BG1EE,BG2EE,IWDEE y IWD2
+
+Official translation of BG1EE,BG2EE,IWDEE and IWD2
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
