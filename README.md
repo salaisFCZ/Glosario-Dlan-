@@ -6,6 +6,8 @@ Traduccion oficial de BG1EE,BG2EE,IWDEE y IWD2
 
 Official translation of BG1EE,BG2EE,IWDEE and IWD2
 
+https://notepad-plus-plus.org/downloads/
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
