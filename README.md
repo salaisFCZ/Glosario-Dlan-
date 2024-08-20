@@ -23,3 +23,5 @@ https://notepad-plus-plus.org/downloads/
 - https://web.archive.org/web/20230311144229/http://islanegra.clandlan.net/
 
 - https://www.rolroyce.com/rol/DDP/GlosarioDD.php
+
+- https://www.deepl.com/es/translator
