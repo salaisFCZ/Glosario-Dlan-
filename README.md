@@ -25,3 +25,5 @@ https://notepad-plus-plus.org/downloads/
 - https://www.rolroyce.com/rol/DDP/GlosarioDD.php
 
 - https://www.deepl.com/es/translator
+
+- https://forgottenrealms.fandom.com/wiki/Featherlung
