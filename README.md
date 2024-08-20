@@ -26,4 +26,4 @@ https://notepad-plus-plus.org/downloads/
 
 - https://www.deepl.com/es/translator
 
-- https://forgottenrealms.fandom.com/wiki/Featherlung
+- https://forgottenrealms.fandom.com/wiki
