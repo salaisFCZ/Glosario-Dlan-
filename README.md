@@ -27,3 +27,5 @@ https://notepad-plus-plus.org/downloads/
 - https://www.deepl.com/es/translator
 
 - https://forgottenrealms.fandom.com/wiki
+
+- https://www.tsrarchive.com/in/sp/sp.html
