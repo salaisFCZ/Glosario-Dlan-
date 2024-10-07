@@ -31,3 +31,5 @@ https://notepad-plus-plus.org/downloads/
 - https://www.tsrarchive.com/in/sp/sp.html
 
 - https://reinosolvidados.fandom.com/wiki/Wiki_Reinos_Olvidados
+
+- https://www.reddit.com/r/DnDespanol/comments/yywrqv/libros_pdf_dnd_en_espa%C3%B1ol/
