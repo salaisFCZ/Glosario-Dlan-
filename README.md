@@ -29,3 +29,5 @@ https://notepad-plus-plus.org/downloads/
 - https://forgottenrealms.fandom.com/wiki
 
 - https://www.tsrarchive.com/in/sp/sp.html
+
+- https://reinosolvidados.fandom.com/wiki/Wiki_Reinos_Olvidados
